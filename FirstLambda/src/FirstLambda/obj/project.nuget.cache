@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "j35fBtXpsd43OKhK/KRf6Btb/HEDY4Lg7ElcJrREhq9hLJ0wiXJD0TfQoGUjCzWyZ0cPt3150LpTAtyJ+3OaGg==",
+  "success": true,
+  "projectFilePath": "D:\\Método.NETDireto\\Curso completo (Slides - vídeos)\\3 - COMPUTAÇÃO EM NUVEM\\4 - SERVELESS COM AWS e .NET\\1 - AWS LAMBDA\\FirstLambda\\FirstLambda\\src\\FirstLambda\\FirstLambda.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaom\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\joaom\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.1\\amazon.lambda.serialization.systemtextjson.2.3.1.nupkg.sha512",
+    "C:\\Users\\joaom\\.nuget\\packages\\gremlin.net\\3.6.4\\gremlin.net.3.6.4.nupkg.sha512",
+    "C:\\Users\\joaom\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\joaom\\.nuget\\packages\\polly\\7.2.3\\polly.7.2.3.nupkg.sha512",
+    "C:\\Users\\joaom\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\joaom\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\joaom\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512",
+    "C:\\Users\\joaom\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.20\\microsoft.netcore.app.crossgen2.win-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

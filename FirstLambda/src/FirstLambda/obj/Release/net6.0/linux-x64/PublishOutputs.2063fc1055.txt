@@ -1,0 +1,11 @@
+D:\Método.NETDireto\Curso completo (Slides - vídeos)\3 - COMPUTAÇÃO EM NUVEM\4 - SERVELESS COM AWS e .NET\1 - AWS LAMBDA\FirstLambda\FirstLambda\src\FirstLambda\bin\Release\net6.0\publish\FirstLambda.deps.json
+D:\Método.NETDireto\Curso completo (Slides - vídeos)\3 - COMPUTAÇÃO EM NUVEM\4 - SERVELESS COM AWS e .NET\1 - AWS LAMBDA\FirstLambda\FirstLambda\src\FirstLambda\bin\Release\net6.0\publish\FirstLambda.runtimeconfig.json
+D:\Método.NETDireto\Curso completo (Slides - vídeos)\3 - COMPUTAÇÃO EM NUVEM\4 - SERVELESS COM AWS e .NET\1 - AWS LAMBDA\FirstLambda\FirstLambda\src\FirstLambda\bin\Release\net6.0\publish\FirstLambda.pdb
+D:\Método.NETDireto\Curso completo (Slides - vídeos)\3 - COMPUTAÇÃO EM NUVEM\4 - SERVELESS COM AWS e .NET\1 - AWS LAMBDA\FirstLambda\FirstLambda\src\FirstLambda\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+D:\Método.NETDireto\Curso completo (Slides - vídeos)\3 - COMPUTAÇÃO EM NUVEM\4 - SERVELESS COM AWS e .NET\1 - AWS LAMBDA\FirstLambda\FirstLambda\src\FirstLambda\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\Método.NETDireto\Curso completo (Slides - vídeos)\3 - COMPUTAÇÃO EM NUVEM\4 - SERVELESS COM AWS e .NET\1 - AWS LAMBDA\FirstLambda\FirstLambda\src\FirstLambda\bin\Release\net6.0\publish\Gremlin.Net.dll
+D:\Método.NETDireto\Curso completo (Slides - vídeos)\3 - COMPUTAÇÃO EM NUVEM\4 - SERVELESS COM AWS e .NET\1 - AWS LAMBDA\FirstLambda\FirstLambda\src\FirstLambda\bin\Release\net6.0\publish\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Método.NETDireto\Curso completo (Slides - vídeos)\3 - COMPUTAÇÃO EM NUVEM\4 - SERVELESS COM AWS e .NET\1 - AWS LAMBDA\FirstLambda\FirstLambda\src\FirstLambda\bin\Release\net6.0\publish\Polly.dll
+D:\Método.NETDireto\Curso completo (Slides - vídeos)\3 - COMPUTAÇÃO EM NUVEM\4 - SERVELESS COM AWS e .NET\1 - AWS LAMBDA\FirstLambda\FirstLambda\src\FirstLambda\bin\Release\net6.0\publish\System.Text.Encodings.Web.dll
+D:\Método.NETDireto\Curso completo (Slides - vídeos)\3 - COMPUTAÇÃO EM NUVEM\4 - SERVELESS COM AWS e .NET\1 - AWS LAMBDA\FirstLambda\FirstLambda\src\FirstLambda\bin\Release\net6.0\publish\System.Text.Json.dll
+D:\Método.NETDireto\Curso completo (Slides - vídeos)\3 - COMPUTAÇÃO EM NUVEM\4 - SERVELESS COM AWS e .NET\1 - AWS LAMBDA\FirstLambda\FirstLambda\src\FirstLambda\bin\Release\net6.0\publish\FirstLambda.dll
